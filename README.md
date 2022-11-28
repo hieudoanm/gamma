@@ -1,21 +1,27 @@
-# G.A.M.M.A
+# H.A.M.A.M.A
 
-- [G.A.M.M.A](#gamma)
+- [H.A.M.A.M.A](#hamama)
   - [Major League](#major-league)
-    - [Google](#google)
-    - [Amazon](#amazon)
+    - [HashiCorp](#hashicorp)
+    - [Alphabet](#alphabet)
     - [Meta](#meta)
+    - [Amazon](#amazon)
     - [Microsoft](#microsoft)
     - [Apple](#apple)
   - [Minor League](#minor-league)
-    - [HashiCorp](#hashicorp)
     - [Apache](#apache)
+    - [JetBrains](#jetbrains)
     - [Oracle](#oracle)
   - [Freemium](#freemium)
 
 ## Major League
 
-### Google
+### HashiCorp
+
+- [Terraform](https://www.terraform.io)
+- [Vault](https://www.vaultproject.io)
+
+### Alphabet
 
 - [Cloud](https://cloud.google.com)
 - Frameworks
@@ -30,6 +36,13 @@
     - [Studio](https://developer.android.com/studio)
   - ChromeOS
 - [Tensorflow](https://www.tensorflow.org)
+
+### Meta
+
+- [GraphQL](https://graphql.org)
+- [Jest](https://jestjs.io)
+- [React.js](https://reactjs.org)
+- [React Native](https://reactnative.dev/)
 
 ### Amazon
 
@@ -66,13 +79,6 @@
   - [Secrets Manager](https://aws.amazon.com/secrets-manager)
   - [S3 - Simple Storage Service](https://aws.amazon.com/s3)
 
-### Meta
-
-- [GraphQL](https://graphql.org)
-- [Jest](https://jestjs.io)
-- [React.js](https://reactjs.org)
-- [React Native](https://reactnative.dev/)
-
 ### Microsoft
 
 - [Azure](https://azure.microsoft.com)
@@ -97,11 +103,6 @@
 
 ## Minor League
 
-### HashiCorp
-
-- [Terraform](https://www.terraform.io)
-- [Vault](https://www.vaultproject.io)
-
 ### Apache
 
 - Databases
@@ -116,6 +117,10 @@
   - [Kafka](https://kafka.apache.org/)
 - [Netbeans](https://netbeans.apache.org/)
 - [Server](https://httpd.apache.org/)
+
+### JetBrains
+
+- [Kotlin](https://kotlinlang.org/)
 
 ### Oracle
 
