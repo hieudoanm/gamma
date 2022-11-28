@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	health_service "gamma/src/services/health"
+	health_service "apis/src/services/health"
 
 	"github.com/julienschmidt/httprouter"
 )

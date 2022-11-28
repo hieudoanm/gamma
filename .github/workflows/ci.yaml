@@ -20,7 +20,12 @@ jobs:
         go:
           - name: Golang 1.18
             version: 1.18
-    name: ${{ matrix.os.name }} - ${{ matrix.go.name }}}
+        project:
+          - app-name: APIs
+            working-directory: ./services/apis
+          - app-name: GraphQL
+            working-directory: ./services/graphql
+    name: ${{ matrix.os.name }} - ${{ matrix.go.app-name }}}
     runs-on: ${{ matrix.os.version }}
     steps:
       - name: Checkout
@@ -32,6 +37,7 @@ jobs:
         working-directory: ${{ matrix.project.working-directory }}
       - name: Build Production
         run: go build -o ./dist/main
+        working-directory: ${{ matrix.project.working-directory }}
       # - name: Unit Test
       #   run: yarn test
       #   working-directory: ${{ matrix.project.working-directory }}
