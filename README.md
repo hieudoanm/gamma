@@ -1,25 +1,22 @@
 # H.A.M.A.M.A
 
 - [H.A.M.A.M.A](#hamama)
-  - [Major League](#major-league)
-    - [HashiCorp](#hashicorp)
+  - [Big Five](#big-five)
     - [Alphabet](#alphabet)
     - [Meta](#meta)
     - [Amazon](#amazon)
     - [Microsoft](#microsoft)
     - [Apple](#apple)
+  - [Major League](#major-league)
+    - [HashiCorp](#hashicorp)
+    - [JetBrains](#jetbrains)
+    - [Vercel](#vercel)
   - [Minor League](#minor-league)
     - [Apache](#apache)
-    - [JetBrains](#jetbrains)
     - [Oracle](#oracle)
-  - [Freemium](#freemium)
+    - [Other](#other)
 
-## Major League
-
-### HashiCorp
-
-- [Terraform](https://www.terraform.io)
-- [Vault](https://www.vaultproject.io)
+## Big Five
 
 ### Alphabet
 
@@ -101,6 +98,22 @@
   - [ios](https://www.apple.com/ios)
   - [macOS](https://www.apple.com/macos)
 
+## Major League
+
+### HashiCorp
+
+- [Terraform](https://www.terraform.io)
+- [Vault](https://www.vaultproject.io)
+
+### JetBrains
+
+- [Kotlin](https://kotlinlang.org/)
+
+### Vercel
+
+- [Next.js](https://nextjs.org/)
+- [Svelte](https://svelte.dev/)
+
 ## Minor League
 
 ### Apache
@@ -118,15 +131,11 @@
 - [Netbeans](https://netbeans.apache.org/)
 - [Server](https://httpd.apache.org/)
 
-### JetBrains
-
-- [Kotlin](https://kotlinlang.org/)
-
 ### Oracle
 
 - [Java](https://www.java.com)
 
-## Freemium
+### Other
 
 - CI/CD
   - [Jenkins](https://www.jenkins.io/)
